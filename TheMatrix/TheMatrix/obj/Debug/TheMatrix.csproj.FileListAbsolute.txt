@@ -1,0 +1,15 @@
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\bin\Debug\TheMatrix.exe.config
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\bin\Debug\TheMatrix.exe
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\bin\Debug\TheMatrix.pdb
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.csprojAssemblyReference.cache
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\MainWindow.g.cs
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\App.g.cs
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix_MarkupCompile.cache
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix_MarkupCompile.lref
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\MainWindow.baml
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.g.resources
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.Properties.Resources.resources
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.csproj.GenerateResource.cache
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.csproj.CoreCompileInputs.cache
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.exe
+D:\projects\OOP\5lab\TheMatrix\TheMatrix\obj\Debug\TheMatrix.pdb

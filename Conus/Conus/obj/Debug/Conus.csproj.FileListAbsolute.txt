@@ -1,0 +1,15 @@
+D:\projects\OOP\5lab\Conus\Conus\bin\Debug\Conus.exe.config
+D:\projects\OOP\5lab\Conus\Conus\bin\Debug\Conus.exe
+D:\projects\OOP\5lab\Conus\Conus\bin\Debug\Conus.pdb
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.csprojAssemblyReference.cache
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\MainWindow.g.cs
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\App.g.cs
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus_MarkupCompile.cache
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus_MarkupCompile.lref
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\MainWindow.baml
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.g.resources
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.Properties.Resources.resources
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.csproj.GenerateResource.cache
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.csproj.CoreCompileInputs.cache
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.exe
+D:\projects\OOP\5lab\Conus\Conus\obj\Debug\Conus.pdb
